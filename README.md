@@ -48,7 +48,7 @@
 ### 🏨 Sales And Super Store Datasets
 - 📌 Analyzed Sales data
 - 📌 Cleaned & processed raw data using **Excel & Python**
-- 📌 Created dashboards using **Djngo**
+- 📌 Created dashboards using **Django**
 - 📌 Extracted insights for business decision-making  
 
 🔗 *Project link coming soon*
@@ -101,10 +101,9 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PriteshBaraiya/PriteshBaraiya/output/github-contribution-grid-snake-dark.svg" />
-  ![snake gif](https://github.com/priteshbaraiya/priteshbaraiya/blob/githubgithub-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/PriteshBaraiya/PriteshBaraiya/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 
 ---
 
