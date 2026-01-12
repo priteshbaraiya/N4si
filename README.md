@@ -11,6 +11,9 @@
 </p>
 
 ---
+
+
+
 <img align="right" width= 250 alt="DataAnalyst" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGY3dzM3d3Z0MXdtMTc4aWNvZ2gwb2I5MjAyNWlneGVvZmx3ZzFjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 ">
 ## 🚀 About Me
