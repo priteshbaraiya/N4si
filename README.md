@@ -11,7 +11,8 @@
 </p>
 
 ---
-
+<img  align="right" alt="dataanalyst" width"400" src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/ed8cf2bd-6a60-4c11-be1f-670ec40f70c4" />
+">
 ## 🚀 About Me
 
 👋 Hi! I’m **Pritesh Baraiya**, a passionate **Data Analyst** and **Python Developer** who enjoys working with data, uncovering insights, and building analytical solutions.
