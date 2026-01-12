@@ -101,9 +101,10 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/PriteshBaraiya/PriteshBaraiya/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <a href="https://github.com/PriteshBaraiya/PriteshBaraiya/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/PriteshBaraiya/PriteshBaraiya/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </a>
 </p>
-
 ---
 
 ## 📫 Connect With Me
